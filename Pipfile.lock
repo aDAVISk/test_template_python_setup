@@ -18,11 +18,12 @@
     "default": {
         "setuptools": {
             "hashes": [
-                "sha256:2404879cda71495fc4d5cbc445ed52fdaddf352b36e40be8dcc63147cb4edabe",
-                "sha256:68eb94073fc486091447fcb0501efd6560a0e5a1839ba249e5ff3c4c93f05f90"
+                "sha256:25af69c809d9334cd8e653d385277abeb5a102dca255954005a7092d282575ea",
+                "sha256:791ae94f04f78c880b5e614e560dd32d4b4af5d151bd9e7483e3377846caf90a"
             ],
             "index": "pypi",
-            "version": "==60.5.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==75.0.0"
         }
     },
     "develop": {
